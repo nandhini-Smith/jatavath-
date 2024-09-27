@@ -1,0 +1,19 @@
+body{
+    margin:0;
+}
+.navbar{
+    overflow: hidden;
+
+}
+.navbar a{
+    text-decoration: none;
+    padding: 10px 40px 20px 40px;
+    display: block;
+    text-align: center;
+    float: left;
+}
+.navbar a:hover{
+    background-color: blueviolet;
+    color: white;
+
+}
